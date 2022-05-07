@@ -153,7 +153,6 @@ add_library(r_433 STATIC
     devices/maverick_et73x.c
     devices/mebus.c
     devices/megacode.c
-    devices/meteo.c
     devices/missil_ml0757.c
     devices/new_template.c
     devices/newkaku.c
@@ -221,6 +220,7 @@ add_library(r_433 STATIC
     devices/tpms_toyota.c
     devices/tpms_truck.c
     devices/ts_ft002.c
+    devices/twox16.c
     devices/ttx201.c
     devices/vaillant_vrt340f.c
     devices/visonic_powercode.c

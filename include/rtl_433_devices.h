@@ -227,6 +227,7 @@
     DECL(emos_e6016_rain) \
     DECL(hcs200_fsk) \
     DECL(reed32) \
+    DECL(twox16) \
 
     /* Add new decoders here. */
 
